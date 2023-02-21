@@ -29,7 +29,7 @@ Formulário criado para cadastrar usuários.
 Por adicionar dados nos campos do formulário verifique o banco de dados e a página da api.
 Pode testar tambem a edição e exclusão.
 
-# 🛠️ Construído com
+# 🛠️ Projeto foi construído com
 
 Projeto foi construido com
 
