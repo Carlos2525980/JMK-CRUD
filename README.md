@@ -1,5 +1,8 @@
 # JMK-CRUD
+
 Projeto feito a partir React, node.js e MySql
+
+Formulário criado para cadastrar usuários.
 
 
 # 📋 Pré-requisitos
