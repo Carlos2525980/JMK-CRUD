@@ -10,7 +10,7 @@ Projeto feito a partir React, node.js e MySql
 
 # 🚀 Começando Instalação
 
-1) Primeiro baixe a pasta.
+1) Primeiro baixe a pasta do projeto.
 
 2) Utilize alguma IDE de preferência, a utilizada nesse projeto foi visual studio code.
 
@@ -20,6 +20,24 @@ Projeto feito a partir React, node.js e MySql
 
 5) Agora volte através do terminal e navegue ate a pasta  cadastro-app detro da pasta Front. e execute o conando npm start.
    o navegador irá abrir a pagina da aplicação automanticamente.  Endereço http://localhost:3000/.
+   
+# ⚙️ Executando os testes   
+
+Por adicionar dados nos campos do formulário verifique o banco de dados e a página da api.
+Pode testar tambem a edição e exclusão.
+
+# 🛠️ Construído com
+
+Projeto foi construido com
+
+React https://pt-br.reactjs.org/ O framework web usado.
+
+Yarn  https://yarnpkg.com/ Biblioteca utilizada para construir a API.
+
+Mysql https://dev.mysql.com/downloads/installer/ Banco de Dados ultilizados.
+
+Visual Studio code  https://code.visualstudio.com/download IDE ultilizado.
+
    
    
 
