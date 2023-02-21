@@ -20,7 +20,8 @@ Formulário criado para cadastrar usuários.
 3) Use o terminal para navegar ate a pasta API dentro da pasta JMK.
 
 4) Execute o comando yarn start e em seguida, abra o navegador e cole esse endereço http://localhost:8800/. 
-localhost8800 - Google Chrome](https://user-images.githubusercontent.com/60117541/220441010-b5a2e91b-11d4-4c6d-9f9f-fe33b3a15edc.jpg)
+![localhost8800 - Google Chrome_2](https://user-images.githubusercontent.com/60117541/220441213-1c30d862-2365-48e3-9e18-22e84a496321.jpg)
+
 
 5) Agora volte através do terminal e navegue ate a pasta  cadastro-app dentro da pasta Front. e execute o conando npm start.
    o navegador irá abrir a pagina da aplicação automanticamente.  Endereço http://localhost:3000/.
