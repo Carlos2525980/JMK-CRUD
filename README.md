@@ -20,12 +20,15 @@ Formulário criado para cadastrar usuários.
 3) Use o terminal para navegar ate a pasta API dentro da pasta JMK.
 
 4) Execute o comando yarn start e em seguida, abra o navegador e cole esse endereço http://localhost:8800/. 
+
 ![localhost8800 - Google Chrome_2](https://user-images.githubusercontent.com/60117541/220441213-1c30d862-2365-48e3-9e18-22e84a496321.jpg)
 
 
 5) Agora volte através do terminal e navegue ate a pasta  cadastro-app dentro da pasta Front. e execute o conando npm start.
    o navegador irá abrir a pagina da aplicação automanticamente.  Endereço http://localhost:3000/.
    
+   ![React App - Google Chrome](https://user-images.githubusercontent.com/60117541/220441535-62b2200d-1eca-40af-b665-c939914d3ae7.jpg)
+
 # ⚙️ Executando os testes   
 
 Por adicionar dados nos campos do formulário verifique o banco de dados e a página da api.
