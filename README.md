@@ -8,7 +8,9 @@ Formulário criado para cadastrar usuários.
 # 📋 Pré-requisitos
 
   Foi usado MYSQL nesse projeto. Depois de instalar o mysql e em seguida construir uma tabela com os seguintes campos.
-  ![image](https://user-images.githubusercontent.com/60117541/220414007-79822a89-d591-48b1-a858-5f8bd17f76bb.png)
+  
+ ![PrtScr capture](https://user-images.githubusercontent.com/60117541/220447601-9182ba8c-378a-4d4d-8e9f-766c80697426.jpg)
+
   Api vai ser carregada com as informações armazenadas no MYSQL.  
 
 # 🚀 Começando Instalação
