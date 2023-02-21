@@ -5,7 +5,7 @@ Projeto feito a partir React, node.js e MySql
 # 📋 Pré-requisitos
 
   Foi usado MYSQL nesse projeto. Depois de instalar o mysql e em seguida construir uma tabela com os seguintes campos.
-  [![image](https://user-images.githubusercontent.com/60117541/220414007-79822a89-d591-48b1-a858-5f8bd17f76bb.png)
+  ![image](https://user-images.githubusercontent.com/60117541/220414007-79822a89-d591-48b1-a858-5f8bd17f76bb.png)
   Api vai ser carregada com as informações armazenadas no MYSQL.  
 
 # 🚀 Começando Instalação
