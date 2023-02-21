@@ -36,7 +36,7 @@ React https://pt-br.reactjs.org/ O framework web usado.
 
 Yarn  https://yarnpkg.com/ Biblioteca utilizada para construir a API.
 
-Mysql https://dev.mysql.com/downloads/installer/ Banco de Dados ultilizados.
+Mysql https://dev.mysql.com/downloads/installer/ Banco de Dados ultilizado.
 
 Visual Studio code  https://code.visualstudio.com/download IDE ultilizado.
 
