@@ -21,7 +21,7 @@ Formulário criado para cadastrar usuários.
 
 4) Execute o comando yarn start e em seguida, abra o navegador e cole esse endereço http://localhost:8800/. 
 
-5) Agora volte através do terminal e navegue ate a pasta  cadastro-app detro da pasta Front. e execute o conando npm start.
+5) Agora volte através do terminal e navegue ate a pasta  cadastro-app dentro da pasta Front. e execute o conando npm start.
    o navegador irá abrir a pagina da aplicação automanticamente.  Endereço http://localhost:3000/.
    
 # ⚙️ Executando os testes   
