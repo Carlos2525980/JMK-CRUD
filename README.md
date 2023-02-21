@@ -31,7 +31,6 @@ Pode testar tambem a edição e exclusão.
 
 # 🛠️ Projeto foi construído com
 
-Projeto foi construido com
 
 React https://pt-br.reactjs.org/ O framework web usado.
 
